@@ -1,0 +1,9 @@
+sentence-transformers
+langchain_community
+langchain-chroma
+langchain-core
+langchain-text-splitters
+gigachat
+ipykernel
+requests
+pypdf
